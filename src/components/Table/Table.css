@@ -1,0 +1,7 @@
+/* Add these styles to your CSS file or style section */
+.ag-theme-alpine .ag-header-cell.custom-header {
+    background-color: #7070FF; /* Set your desired background color */
+    color: white; /* Set your desired text color */
+    font-weight: bold;
+  }
+  
